@@ -5,6 +5,8 @@
 
 # 💫 About Me:
 👩‍💻 I’m Bhavana Vuppu<br>🎓 CSE Student | Aspiring Data Analyst & ML Enthusiast<br>🔭 Currently exploring Data Analysis & ML projects<br>🌱 Learning Advanced Power BI & Feature Engineering<br>💬 Ask me about Python, SQL, Pandas, NumPy, EDA<br>⚡ Fun fact: I love turning Kaggle datasets into stories 📊✨
+## 🎯 Career Objective  
+As an aspiring **Data Analyst**, I aim to leverage my skills in **EDA, Feature Engineering, and Visualization Tools** to deliver impactful insights. With hands-on experience in **Python, SQL, Flask, and Power BI**, I strive to contribute to forward-thinking teams and real-world problem solving through data-driven innovations. 
 
 
 ## 🌐 Socials:
@@ -25,7 +27,35 @@
 ![](https://github-readme-stats.vercel.app/api?username=Bhavana1715&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Bhavana1715&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavana1715&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💼 Experience  
 
+**Power BI Intern – TATA** (Nov 2024)  
+- Designed and deployed 5+ interactive dashboards in Power BI, converting raw business data into actionable insights.  
+- Enhanced data modeling and reporting efficiency by 20%, supporting strategic decision-making.  
+
+**Python Intern – Codtech IT Solutions** (May 2024 – Aug 2024)  
+- Automated repetitive data handling tasks, reducing manual workload by 30% using Python scripting.  
+- Applied Pandas and NumPy to analyze datasets and streamline workflows.  
+
+---
+
+## 🚀 Featured Projects  
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| Multiple Disease Prediction System | Python, Flask, Pandas, NumPy, Scikit-learn, HTML, CSS, Bootstrap | Developed a web application integrating ML models to predict diabetes, heart disease, and Parkinson’s disease. |
+| Zepto Sales Analysis Dashboard | Python, Pandas, NumPy, Power BI | Analyzed sales data to uncover consumer trends; identified that low-fat products contributed 77.6% of sales. |
+
+---
+
+## 🏅 Certifications  
+
+- Microsoft & LinkedIn: Career Essentials in Data Analysis, Data Visualization (Dec 2024)  
+- Codtech IT Solutions: Data Analysis (Aug 2024)  
+- OpenCV with Python (Apr 2024)  
+- TCS iON Career Edge – Young Professional (Nov 2024)  
+
+---
 
 ### 📊 Random Data Analyst Quote
 
