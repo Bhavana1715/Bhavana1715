@@ -32,8 +32,7 @@
 🌟<i> *"Behind every great decision, there's a data analyst weaving order from chaos, clarity from confusion, and meaning from mountains of information."*<i>🌟
 
 <div align="right">- <em>Anonymous Data Sage</em></div>
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Bhavana1715&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Bhavana1715&icon=0&color=0)](https://visitcount.itsvg.in)
