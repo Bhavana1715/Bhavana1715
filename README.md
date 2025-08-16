@@ -57,7 +57,7 @@ As an aspiring **Data Analyst**, I aim to leverage my skills in **EDA, Feature E
 
 ---
 
-### 📊 Random Data Analyst Quote
+### 📊 Quote
 
 🌟<i> *"Behind every great decision, there's a data analyst weaving order from chaos, clarity from confusion, and meaning from mountains of information."*<i>🌟
 
