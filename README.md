@@ -4,7 +4,7 @@
 </p>
 
 # 💫 About Me:
-👩‍💻 I’m Bhavana Vuppu<br>🎓 CSE Student | Aspiring Data Analyst & ML Enthusiast<br>🔭 Currently exploring Data Analysis & ML projects<br>🌱 Learning Advanced Power BI & Feature Engineering<br>💬 Ask me about Python, SQL, Pandas, NumPy, EDA<br>⚡ Fun fact: I am Green Eater 🥦🥗
+👩‍💻 I’m Bhavana Vuppu<br>🎓 CSE Student | Aspiring Data Analyst & ML Enthusiast<br>🔭 Currently exploring Data Analysis & ML projects<br>🌱 Learning Advanced Power BI & Feature Engineering<br>💬 Ask me about Python, SQL, Pandas, NumPy, EDA<br>⚡ Fun fact: I am a Green Eater 🥦🥗
 ## 🎯 Career Objective  
 As an aspiring **Data Analyst**, I aim to leverage my skills in **EDA, Feature Engineering, and Visualization Tools** to deliver impactful insights. With hands-on experience in **Python, SQL, Flask, and Power BI**, I strive to contribute to forward-thinking teams and real-world problem solving through data-driven innovations. 
 
